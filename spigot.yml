@@ -11,11 +11,6 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 3
-commands:
-  spam-exclusions:
-  - /skill
-  log: true
-  tab-complete: true
 settings:
   bungeecord-addresses:
   - 127.0.0.1
@@ -28,6 +23,11 @@ settings:
   restart-script: ./start.sh
   netty-threads: 3
   player-shuffle: 100
+commands:
+  spam-exclusions:
+  - /skill
+  log: true
+  tab-complete: true
 listeners:
 - port: default
   host: default
@@ -88,6 +88,6 @@ world-settings:
     merge-radius:
       exp: 3.0
       item: 2.5
-    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
+    item-despawn-rate: 6000
     max-bulk-chunks: 10

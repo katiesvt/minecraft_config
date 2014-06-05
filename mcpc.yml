@@ -76,47 +76,47 @@ world-settings:
     infinite-water-source: true
     flowing-lava-decay: false
     despawn-immediate: true
-    worldgen-ATG-ATGWorldGenRocks: true
     worldgen-ATG-ATGWorldGenHighAltitudePockets: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-Chisel-MarbleWorldGenerator: true
-    worldgen-ExtraBees-ModuleGeneration: true
-    worldgen-Roguelike-DungeonGenerator: true
     worldgen-CalclaviaCore-OreGenerator: true
-    worldgen-emashercore-WorldGenMine: true
     worldgen-IC2-IC2: true
-    worldgen-QuantumCraft-QuantumOreGenerator: true
-    worldgen-gascraft-WorldGenGas: true
-    worldgen-GeoStrata-CrystalGenerator: true
-    worldgen-NetherOres-NetherOresWorldGenHandler: true
-    worldgen-emashercore-WorldGenPondScum: true
-    worldgen-Agriculture-WorldGenSpice: true
-    worldgen-CoFHWorld-WorldHandler: true
-    worldgen-ReactorCraft-ReactorOreGenerator: true
-    worldgen-ExtraUtilities-WorldGenEnderLillies: true
-    worldgen-magicalcrops-WorldGeneratorEssence: true
+    worldgen-DyeTrees-ColorTreeGenerator: true
     worldgen-MineFactoryReloaded-MineFactoryReloadedWorldGen: true
-    worldgen-Natura-BaseCropWorldgen: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
-    worldgen-Mimicry-MimicWorldGen: true
-    worldgen-Mariculture-WorldGen: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-GeoStrata-RockGenerator: true
-    worldgen-AppliedEnergistics-AppEng: true
     worldgen-ElectriCraft-ElectriOreGenerator: true
     worldgen-ProjRedExploration-GenerationManager: true
-    worldgen-Agriculture-WorldGenSalt: true
-    worldgen-MeteorCraft-OldMeteorGenerator: true
-    worldgen-magicalcrops-WorldGeneratorEssenceNether: true
-    worldgen-Mariculture-WorldGenHandler: true
     worldgen-Forestry-WorldGenerator: true
-    worldgen-MagicBees-WorldGeneratorHandler: true
+    worldgen-emashercore-WorldGenMine: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
     worldgen-Natura-BaseCloudWorldgen: true
-    worldgen-Natura-BaseTreeWorldgen: true
-    worldgen-emashercore-WorldGenHemp: true
+    worldgen-Chisel-MarbleWorldGenerator: true
+    worldgen-Agriculture-WorldGenSpice: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-gascraft-WorldGenGas: true
+    worldgen-magicalcrops-WorldGeneratorEssence: true
     worldgen-ATG-ATGWorldGenCliffs: true
-    worldgen-DyeTrees-ColorTreeGenerator: true
+    worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-magicalcrops-WorldGeneratorEssenceNether: true
+    worldgen-AppliedEnergistics-AppEng: true
+    worldgen-ReactorCraft-ReactorOreGenerator: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-Roguelike-DungeonGenerator: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-MagicBees-WorldGeneratorHandler: true
+    worldgen-Agriculture-WorldGenSalt: true
+    worldgen-CoFHWorld-WorldHandler: true
+    worldgen-Mimicry-MimicWorldGen: true
+    worldgen-emashercore-WorldGenPondScum: true
+    worldgen-NetherOres-NetherOresWorldGenHandler: true
+    worldgen-ExtraBees-ModuleGeneration: true
+    worldgen-GeoStrata-CrystalGenerator: true
+    worldgen-Mariculture-WorldGenHandler: true
+    worldgen-GeoStrata-RockGenerator: true
+    worldgen-QuantumCraft-QuantumOreGenerator: true
+    worldgen-MeteorCraft-OldMeteorGenerator: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-Mariculture-WorldGen: true
+    worldgen-Natura-BaseCropWorldgen: true
+    worldgen-emashercore-WorldGenHemp: true
+    worldgen-ATG-ATGWorldGenRocks: true
 fake-players:
   do-login: false
 debug:
@@ -124,6 +124,32 @@ debug:
 plugin-settings:
   default:
     remap-plugin-file: false
+    custom-class-loader: true
+    debug: false
+    use-guava10: true
+    remap-nms-v1_6_R3: true
+    remap-nms-v1_6_R2: true
+    remap-nms-v1_6_R1: true
+    remap-nms-v1_5_R3: true
+    remap-nms-v1_5_R2: true
+    remap-nms-v1_5_R1: true
+    remap-nms-v1_4_R1: true
+    remap-nms-v1_4_6: true
+    remap-nms-pre: 'false'
+    remap-obc-v1_6_R3: false
+    remap-obc-v1_6_R2: false
+    remap-obc-v1_6_R1: false
+    remap-obc-v1_5_R3: true
+    remap-obc-v1_5_R2: true
+    remap-obc-v1_5_R1: true
+    remap-obc-v1_4_R1: false
+    remap-obc-v1_4_6: false
+    remap-obc-pre: false
+    global-inheritance: true
+    plugin-inheritance: true
+    remap-reflect-field: true
+    remap-reflect-class: true
+    remap-allow-future: false
 config-version: 1
 world-environment-settings:
   normal:
