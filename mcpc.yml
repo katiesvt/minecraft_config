@@ -76,47 +76,47 @@ world-settings:
     infinite-water-source: true
     flowing-lava-decay: false
     despawn-immediate: true
-    worldgen-ATG-ATGWorldGenHighAltitudePockets: true
-    worldgen-CalclaviaCore-OreGenerator: true
-    worldgen-IC2-IC2: true
-    worldgen-DyeTrees-ColorTreeGenerator: true
-    worldgen-MineFactoryReloaded-MineFactoryReloadedWorldGen: true
-    worldgen-ElectriCraft-ElectriOreGenerator: true
-    worldgen-ProjRedExploration-GenerationManager: true
-    worldgen-Forestry-WorldGenerator: true
-    worldgen-emashercore-WorldGenMine: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
     worldgen-Natura-BaseCloudWorldgen: true
-    worldgen-Chisel-MarbleWorldGenerator: true
-    worldgen-Agriculture-WorldGenSpice: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-gascraft-WorldGenGas: true
     worldgen-magicalcrops-WorldGeneratorEssence: true
-    worldgen-ATG-ATGWorldGenCliffs: true
-    worldgen-Natura-BaseTreeWorldgen: true
-    worldgen-magicalcrops-WorldGeneratorEssenceNether: true
-    worldgen-AppliedEnergistics-AppEng: true
-    worldgen-ReactorCraft-ReactorOreGenerator: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
-    worldgen-Roguelike-DungeonGenerator: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-MagicBees-WorldGeneratorHandler: true
-    worldgen-Agriculture-WorldGenSalt: true
-    worldgen-CoFHWorld-WorldHandler: true
-    worldgen-Mimicry-MimicWorldGen: true
-    worldgen-emashercore-WorldGenPondScum: true
-    worldgen-NetherOres-NetherOresWorldGenHandler: true
-    worldgen-ExtraBees-ModuleGeneration: true
     worldgen-GeoStrata-CrystalGenerator: true
-    worldgen-Mariculture-WorldGenHandler: true
-    worldgen-GeoStrata-RockGenerator: true
-    worldgen-QuantumCraft-QuantumOreGenerator: true
-    worldgen-MeteorCraft-OldMeteorGenerator: true
-    worldgen-ExtraUtilities-WorldGenEnderLillies: true
     worldgen-Mariculture-WorldGen: true
-    worldgen-Natura-BaseCropWorldgen: true
-    worldgen-emashercore-WorldGenHemp: true
+    worldgen-IC2-IC2: true
     worldgen-ATG-ATGWorldGenRocks: true
+    worldgen-Mimicry-MimicWorldGen: true
+    worldgen-Agriculture-WorldGenSpice: true
+    worldgen-GeoStrata-RockGenerator: true
+    worldgen-CoFHWorld-WorldHandler: true
+    worldgen-CalclaviaCore-OreGenerator: true
+    worldgen-ReactorCraft-ReactorOreGenerator: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-QuantumCraft-QuantumOreGenerator: true
+    worldgen-MagicBees-WorldGeneratorHandler: true
+    worldgen-Chisel-MarbleWorldGenerator: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-ExtraBees-ModuleGeneration: true
+    worldgen-AppliedEnergistics-AppEng: true
+    worldgen-emashercore-WorldGenMine: true
+    worldgen-ATG-ATGWorldGenCliffs: true
+    worldgen-emashercore-WorldGenHemp: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-ElectriCraft-ElectriOreGenerator: true
+    worldgen-MineFactoryReloaded-MineFactoryReloadedWorldGen: true
+    worldgen-ProjRedExploration-GenerationManager: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-Forestry-WorldGenerator: true
+    worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-MeteorCraft-OldMeteorGenerator: true
+    worldgen-magicalcrops-WorldGeneratorEssenceNether: true
+    worldgen-gascraft-WorldGenGas: true
+    worldgen-Natura-BaseCropWorldgen: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-DyeTrees-ColorTreeGenerator: true
+    worldgen-Roguelike-DungeonGenerator: true
+    worldgen-emashercore-WorldGenPondScum: true
+    worldgen-ATG-ATGWorldGenHighAltitudePockets: true
+    worldgen-Mariculture-WorldGenHandler: true
+    worldgen-Agriculture-WorldGenSalt: true
+    worldgen-NetherOres-NetherOresWorldGenHandler: true
 fake-players:
   do-login: false
 debug:

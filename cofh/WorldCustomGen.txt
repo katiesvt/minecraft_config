@@ -47,3 +47,4 @@ UNIFORM	oreLeadte1	2001	3	8	4	43	62	true
 UNIFORM	oreLeadlte2	2001	3	4	4	131	141	true
 UNIFORM	marirutileore	1054	2	4	4	15	64	true
 NORMAL	oreSaltpeterrc	458	1	16	6	8	35	false
+UNIFORM oreOsmium	2450	0	0	10	19	34	true
