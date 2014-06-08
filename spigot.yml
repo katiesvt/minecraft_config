@@ -12,11 +12,11 @@
 
 config-version: 3
 settings:
+  log-filters:
+  - ^(.*)(/login)(.*)$
   bungeecord-addresses:
   - 127.0.0.1
   bungeecord: true
-  log-filters:
-  - ^(.*)(/login)(.*)$
   timeout-time: 60
   restart-on-crash: false
   restart-script: ./start.sh
@@ -87,7 +87,7 @@ world-settings:
     merge-radius:
       item: 2.5
       exp: 3.0
-    arrow-despawn-rate: 1200
     view-distance: 10
     chunks-per-tick: 650
+    arrow-despawn-rate: 1200
     max-bulk-chunks: 10
